@@ -6,4 +6,4 @@ csrf = CSRFProtect(app)
 
 @app.route("/")
 def pagina_inicial():
-    return "Kelvyn v1.0"
+    return "Kelvyn - Lab Concluído"
